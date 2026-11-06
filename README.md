@@ -73,10 +73,10 @@ I build **cross-platform Flutter apps**, **secure REST APIs** and **ecommerce ex
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil9160&show_icons=true&icon_color=d7a758&title_color=4c8cb2&text_color=555558&bg_color=fffaf0&border_color=ddcda9&border_radius=12" alt="Nikhil's GitHub stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=nikhil9160&background=fffaf0&border=ddcda9&ring=4c8cb2&fire=d7a758&currStreakLabel=4c8cb2&sideLabels=555558&sideNums=1b1b1b&dates=9c9c9c&border_radius=12" alt="Nikhil's GitHub streak" height="180" />
+  <img src="assets/github-stats.svg" alt="Nikhil's GitHub stats, last 12 months" height="230" />
+  <img src="https://streak-stats.demolab.com/?user=nikhil9160&background=fffaf0&border=ddcda9&ring=4c8cb2&fire=d7a758&currStreakLabel=4c8cb2&sideLabels=555558&sideNums=1b1b1b&dates=9c9c9c&border_radius=12" alt="Nikhil's GitHub streak" height="230" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil9160&layout=compact&langs_count=8&title_color=4c8cb2&text_color=555558&bg_color=fffaf0&border_color=ddcda9&border_radius=12" alt="Nikhil's most used languages" height="160" />
+  <img src="assets/top-languages.svg" alt="Nikhil's top languages by bytes" height="230" />
 </div>
 
 ## Contact
