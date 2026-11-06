@@ -76,7 +76,7 @@ I build **cross-platform Flutter apps**, **secure REST APIs** and **ecommerce ex
   <img src="assets/github-stats.svg" alt="Nikhil's GitHub stats, last 12 months" height="230" />
   <img src="https://streak-stats.demolab.com/?user=nikhil9160&background=fffaf0&border=ddcda9&ring=4c8cb2&fire=d7a758&currStreakLabel=4c8cb2&sideLabels=555558&sideNums=1b1b1b&dates=9c9c9c&border_radius=12" alt="Nikhil's GitHub streak" height="230" />
   <br/>
-  <img src="assets/top-languages.svg" alt="Nikhil's top languages across all repositories" height="230" />
+  <img src="assets/top-languages.svg?v=2" alt="Nikhil's top languages across all repositories" height="230" />
 </div>
 
 ## Contact
