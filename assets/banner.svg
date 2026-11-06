@@ -1,0 +1,46 @@
+<svg width="1280" height="380" viewBox="0 0 1280 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nikhil Kanojia — Flutter Developer and Full-Stack Mobile and Web Developer">
+  <defs>
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M72 0H0V72" fill="none" stroke="#d7a758" stroke-opacity="0.28" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="mono-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4c8cb2"/>
+      <stop offset="1" stop-color="#cfb8a7"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4c8cb2"/>
+      <stop offset="0.5" stop-color="#d7a758"/>
+      <stop offset="1" stop-color="#cfb8a7"/>
+    </linearGradient>
+    <radialGradient id="glow-blue" cx="0.85" cy="0.2" r="0.55">
+      <stop offset="0" stop-color="#4c8cb2" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#4c8cb2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-tan" cx="0.12" cy="0.9" r="0.6">
+      <stop offset="0" stop-color="#cfb8a7" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#cfb8a7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="380" fill="#fffaf0"/>
+  <rect width="1280" height="380" fill="url(#grid)"/>
+  <rect width="1280" height="380" fill="url(#glow-blue)"/>
+  <rect width="1280" height="380" fill="url(#glow-tan)"/>
+
+  <text x="72" y="106" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="15" letter-spacing="5" fill="#4c8cb2">FULL-STACK &amp; FLUTTER DEVELOPER</text>
+
+  <text x="70" y="196" font-family="Inter,'Segoe UI',Arial,sans-serif" font-weight="800" font-size="84" letter-spacing="-1" fill="#1b1b1b">Nikhil Kanojia</text>
+
+  <rect x="72" y="214" width="172" height="6" rx="3" fill="#d7a758"/>
+
+  <text x="72" y="264" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="23" font-weight="600" fill="#555558">Flutter apps with a full-stack backbone.</text>
+
+  <circle cx="79" cy="291" r="5.5" fill="#4c8cb2"/>
+  <text x="94" y="297" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="13" letter-spacing="2.5" fill="#9c9c9c">LUDHIANA, INDIA · OPEN TO WORK</text>
+
+  <rect x="946" y="92" width="180" height="180" rx="42" fill="url(#mono-grad)"/>
+  <rect x="959" y="105" width="154" height="154" rx="31" fill="none" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1.5" stroke-dasharray="5 7"/>
+  <text x="1036" y="213" text-anchor="middle" font-family="Inter,'Segoe UI',Arial,sans-serif" font-weight="800" font-size="88" fill="#ffffff">NK</text>
+
+  <rect x="0" y="372" width="1280" height="8" fill="url(#bar)"/>
+</svg>
